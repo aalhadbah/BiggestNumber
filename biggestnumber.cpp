@@ -19,6 +19,16 @@ cin>> second;
 
   //cout<<"Of those two numbers, the biggest is: ";
   
+    if( first > second) {
+    cout<< first<< "is the greater number:\n";
+}
+   
+   else {
+    cout<<second<< "is the greater number:\n";
+    } 
+   
+
+
   cout<<endl<<"Thank you for playing.\n";
 
   return 0;
