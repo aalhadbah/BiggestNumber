@@ -20,11 +20,11 @@ cin>> second;
   //cout<<"Of those two numbers, the biggest is: ";
   
     if( first > second) {
-    cout<< "of those two numbers, the biggest is: "<<first<<"\n";
+    cout<< "Of those two numbers, the biggest is: "<<first<<"\n";
 }
    
    else {
-    cout<<"of those two numbers, the biggest is: "<<second<<"\n";
+    cout<<"Of those two numbers, the biggest is: "<<second<<"\n";
     } 
    
 
